@@ -11,7 +11,7 @@ This block used for setting led's shine.With that block you can choose led and l
 
 This block used for turned off the led. You can choose led that want to turn off.
 
-![sensors blocks image](../../_assets/turnoff.PNG)
+![sensors blocks image](../../_assets/turn_off_the_led.PNG)
 
 ## Block : relay__
 
