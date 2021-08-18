@@ -5,6 +5,6 @@
 
 ## When Tinylab Started
 
-This block running then tinylab started. 
+The blocks that at under the this block, running once when tinylab started.
 
 
