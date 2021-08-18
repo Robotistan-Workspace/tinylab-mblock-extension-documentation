@@ -43,8 +43,7 @@ This block used for initialize 7-Segment.
 
 Note:  You must use this block to start 7-Segment.This block use with  "when TinyLab started" or "when clicked __ button" blocks.
 
-![sensors blocks image](../../_assets/setup_7_button.PNG)
-
+![sensors blocks image](../../_assets/setup_7_button.PNG) 
 ![sensors blocks image](../../_assets/setup_7_segment.PNG)
 
 ### Block : write __ to 7-Segment
