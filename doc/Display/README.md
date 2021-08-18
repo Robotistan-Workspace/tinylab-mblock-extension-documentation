@@ -10,7 +10,6 @@ This block used for initialize LCD.
 Note: You must use this block to start LCD.This block use with  "when TinyLab started" or "when clicked __ button" blocks.
 
 ![sensors blocks image](../../_assets/setup_lcd.PNG)
-
 ![sensors blocks image](../../_assets/setup_lcd_button.PNG)
 
 ### Block : move the LCD cursor;line __, column__
