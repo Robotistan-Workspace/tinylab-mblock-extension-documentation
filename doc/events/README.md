@@ -1,7 +1,7 @@
 # Events
 
 
-![event blocks image](../_assets/events_blocks.PNG)
+![event blocks image](../../_assets/events_blocks.PNG)
 
 ## When Tinylab Started
 
