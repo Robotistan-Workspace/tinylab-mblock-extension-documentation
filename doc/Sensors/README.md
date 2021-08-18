@@ -1,7 +1,7 @@
 # Sensors
 
 
-![sensors blocks image](../_assets/sensors_blocks.PNG)
+![sensors blocks image](../../_assets/sensors_blocks.PNG)
 
 ## Block: read temperature
 
