@@ -3,7 +3,7 @@
 
 ## Block : light the __ at __ intensity
 
-This block used for setting led's shine.With that block you can choose led and led's shinning. 
+This block used for setting led's intensity.With that block you can choose led and led's intensity. 
 
 ![sensors blocks image](../../_assets/ledshine.PNG)
 
