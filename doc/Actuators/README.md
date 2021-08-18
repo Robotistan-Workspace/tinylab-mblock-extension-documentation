@@ -23,4 +23,4 @@ This block used for turned on or turned off the relay.
 
 This block used for choose note and measure. You can choose note that want to use and also you can arrange  measure.
 
-![sensors blocks image](../../_assets/buzzer1.PNG)
+![sensors blocks image](../../_assets/buzzer.PNG)
