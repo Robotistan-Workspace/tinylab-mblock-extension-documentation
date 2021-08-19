@@ -58,3 +58,5 @@ Note: Don't forget to use "setup the 7-Segment" block before using this block.
 This block used for cleaning 7-Segment screen. 
 
 ![clean the 7-segment blocks image](../../_assets/clean_the_7_segment.PNG)
+
+[Sensors ](https://github.com/Robotistan-Workspace/tinylab-mblock-extension-documentation/tree/main/doc/Sensors)

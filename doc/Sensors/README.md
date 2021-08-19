@@ -27,6 +27,7 @@ This block read potentiometer's value. It can be between 0 to 1023.This block's 
 
 ![light sensors blocks image](../../_assets/ldr_block.PNG)
 
+[Events](https://github.com/Robotistan-Workspace/tinylab-mblock-extension-documentation/tree/main/doc/events)
 
 
 
