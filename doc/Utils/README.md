@@ -25,6 +25,20 @@ Reads the value from a specified digital pin.
 
 Reads the value from a specified digital pin, you can select either "HIGH" or "LOW".
 
+![write to digital pin blocks image](../../_assets/write_to_digital.PNG)
+
+## Block : write __ to serial port
+
+ As a debugging tool, it can be used to test concepts or communicate directly with the Arduino board.
+
+ ![write serial port blocks image](../../_assets/serial_port.PNG)
+
+ ## Block : start the external EEPROM
+
+ 
+
+
+
 
 
 
