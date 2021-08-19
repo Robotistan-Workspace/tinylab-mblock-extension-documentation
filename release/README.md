@@ -10,8 +10,8 @@ After that, you must go to downloads.
 
 Then, you must select "show in folder".
 
-![show in folder image](../_assets/show_folder.PNG)
+![show in folder image](../_assets/show_folder.png)
 
 Drag the file and drop the screen.
 
-![drag and drop image](../_assets/drag_drop.PNG)
+![drag and drop image](../_assets/drag_drop.png)
