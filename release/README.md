@@ -20,6 +20,6 @@ Then, you must select "show in folder".
 
 Drag the file and drop the screen.
 
-![drag and drop image](../_assets/drag_drop.png)
+![drag and drop image](../_assets/drag_drop_.png)
 
 [For More Information](https://github.com/Robotistan-Workspace/tinylab-mblock-extension-documentation/tree/main/doc)
