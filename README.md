@@ -4,4 +4,4 @@ TinyLab is an electronic board containing components frequently used in prototyp
 
 ![tinylab blocks image](./_assets/tinylab_picture.PNG)
 
-[For dowload Tinylab extension ](https://github.com/Robotistan-Workspace/tinylab-mblock-extension-documentation/tree/main/release)
+[For Download Tinylab Extension ](https://github.com/Robotistan-Workspace/tinylab-mblock-extension-documentation/tree/main/release)
