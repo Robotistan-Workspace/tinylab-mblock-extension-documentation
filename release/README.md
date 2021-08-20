@@ -8,13 +8,13 @@ You can download the extension from attached link:
 
 After that, you must go to downloads.
 
-![dowloads image](../_assets/dowloads.PNG)
+![downloads image](../_assets/downloads.PNG)
 
 
 
 Then, you must select "show in folder".
 
-![show in folder image](../_assets/show_folder.png)
+![show in folder image](../_assets/download.png)
 
 
 
