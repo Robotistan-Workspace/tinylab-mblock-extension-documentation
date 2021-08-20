@@ -35,36 +35,20 @@ Reads the value from a specified digital pin, you can select either "HIGH" or "L
 
  ## Block : start the external EEPROM
 
- 
+This block used for initialize external EEPROM.
 
+![start the external eeprom blocks image](../../_assets/start_eeprom.PNG)
 
+##  Block : write __ to external EEPROM, start index from __ to __ byte lenght 
 
+This block used for write to external EEPROM .Due to this block  you can start which index you want  and you can select  byte lengt.
 
+![write to external eeprom blocks image](../../_assets/write_to_external.PNG)
 
+## Block : read the external EEPROM from __ index to __ byte-lenght
 
+This block used for read the external EEPROM and you can start to write to which index you want and you can select byte length.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![read to external eeprom blocks image](../../_assets/read_the_external_eeprom.PNG)
 
 [For Documentation](https://github.com/Robotistan-Workspace/tinylab-mblock-extension-documentation/tree/main/doc)
