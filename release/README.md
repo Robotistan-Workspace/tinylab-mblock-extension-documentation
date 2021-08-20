@@ -14,7 +14,7 @@ After that, you must go to downloads.
 
 Then, you must select "show in folder".
 
-![show in folder image](../_assets/download.png)
+![show in folder image](../_assets/download.PNG)
 
 
 
