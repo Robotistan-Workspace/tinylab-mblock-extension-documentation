@@ -2,7 +2,7 @@
 
 You can download the extension from attached link:
 
-[Download  link](./Tinylab_Mblock_Extension)
+[Download  link](./Tinylab_Mblock_Extension.mext)
 
 
 
