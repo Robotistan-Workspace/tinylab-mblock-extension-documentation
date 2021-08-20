@@ -27,7 +27,7 @@ Drag the file and drop the screen.
 ## Download at Mblock
  In Mblock's screen select the  "add" part.
 
-![downloads image](../_assets/adding.PNG)
+![downloads image](../_assets/adding.png)
 
 Select the "TinyLab" extension.
 
@@ -35,7 +35,7 @@ Select the "TinyLab" extension.
 
 Select "ok".
 
-![show adding image](../_assets/select_ok.PNG)
+![show adding image](../_assets/select_ok.png)
 
 Then, you can use the TinyLab extension.
 
