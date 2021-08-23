@@ -4,8 +4,6 @@
 
 You can download the extension from attached link:
 
-[Download  link](./Tinylab_Mblock_Extension.mext)
-
 [Download  link](https://github.com/Robotistan-Workspace/tinylab-mblock-extension-documentation/raw/main/release/TinyLab_Mblock_Extention.mext)
 
 After that, you must go to downloads.
@@ -54,7 +52,7 @@ Then, you can use the TinyLab extension.
 
 Aşağıda verilen  linkten uzantıyı indirebilirsiniz.
 
-[İndirme  linki](./Tinylab_Mblock_Extension.mext)
+[İndirme  linki](https://github.com/Robotistan-Workspace/tinylab-mblock-extension-documentation/raw/main/release/TinyLab_Mblock_Extention.mext)
 
 İndirdikten sonra, indirilenlere git.
 
