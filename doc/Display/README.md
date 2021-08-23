@@ -60,3 +60,58 @@ This block used for cleaning 7-Segment screen.
 ![clean the 7-segment blocks image](../../_assets/clean_the_7_segment.PNG)
 
 [For Documentation](https://github.com/Robotistan-Workspace/tinylab-mblock-extension-documentation/tree/main/doc)
+
+**_________________________________________________________________________________________________________________________________________________**
+
+# Görünüm
+
+![görünüm ](../../_assets/görünüm.PNG)
+
+## LCD
+
+### Blok : LCD'yi başlat
+
+Bu blok LCD'yi başlatmak için kullanılır.
+
+Not: LCD'yi başlatmak için bu bloğu kullanmalısınız.Bu blok, "TinyLab Başladığında", "__ butonuna basıldığında" veya "TinyLab Döngüsü" ile kullanılır.
+
+![lcd başlatma](../../_assets/lcd_başlat.PNG)
+![lcd başlatma](../../_assets/lcd_buton.PNG)
+![lcd başlatma](../../_assets/lcd_başlat_döngü.PNG)
+
+### Blok : LCD imlecini hareket ettirin; __ satıra , __ sütuna
+
+Bu blok ile LCD'nin istenilen satır ve sütununa yazılacak kelime yazılır.
+
+NOT: Bu bloktan önce "LCD'yi Başlat" bloğunu kullanmayı unutmayın.
+
+![lcd imleç hareket ](../../_assets/imleç.PNG)
+
+### Blok : LCD'ye __ yaz
+
+Bu blok ile LCD ekranına istenilen kelime yazılır.
+
+NOT: Bu bloktan önce "LCD'yi Başlat" bloğunu kullanmayı unutmayın.
+
+![lcd yazı yazma ](../../_assets/lcd_yaz.PNG)
+
+### Blok : LCD'yi Temizle
+
+Bu blok ile LCD ekranı temizlenir.
+
+NOT: Bu bloktan önce "LCD'yi Başlat" bloğunu kullanmayı unutmayın.
+
+![lcd temizle ](../../_assets/lcd_temizle.PNG)
+
+
+## 7-Segment
+
+### Blok : 7-Segment Başlat
+
+Bu blok 7-Segment'i başlatmak için kullanılır.
+
+Not: 7-Segment'i başlatmak için bu bloğu kullanmalısınız.Bu blok, "TinyLab Başladığında", "__ butonuna basıldığında" veya "TinyLab Döngüsü" ile kullanılır.
+
+![7-Segment başlatma](../../_assets/7-segment_başlat.PNG)
+![7-Segment başlatma](../../_assets/7segment.PNG)
+![7-Segment başlatma](../../_assets/tiny_7_segment.PNG)

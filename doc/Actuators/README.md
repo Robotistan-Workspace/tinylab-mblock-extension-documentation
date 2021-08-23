@@ -29,7 +29,7 @@ This block used for choose note and measure. You can choose note that want to us
 
 **_________________________________________________________________________________________________________________________________________________**
 
-# Tetikleyici
+# Tetikleyiciler
 
 ![tetikleyiciler blok resmi](../../_assets/tetikleyici.PNG)
 
