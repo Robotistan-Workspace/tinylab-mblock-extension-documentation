@@ -26,3 +26,39 @@ This block used for choose note and measure. You can choose note that want to us
 ![buzzer control blocks image](../../_assets/buzzer.PNG)
 
 [For Documentation](https://github.com/Robotistan-Workspace/tinylab-mblock-extension-documentation/tree/main/doc)
+
+**_________________________________________________________________________________________________________________________________________________**
+
+# Tetikleyici
+
+![tetikleyiciler blok resmi](../../_assets/tetikleyici.PNG)
+
+## Blok : __ ledini __ yoğunlukla yak
+
+Bu blok,led yoğunluğunu ayarlamak için kullanılır.Ayrıca seçilen ledin istenilen yoğunlukla yanmasını sağlar.
+
+![led yoğunluk blok resmi](../../_assets/led_yoğunluk.PNG)
+
+## Blok : __ ledini söndür
+
+Bu blok, seçilen ledin söndürülmesine yarar.
+
+![led söndürme blok resmi](../../_assets/led_söndür.PNG)
+
+## Blok : __ röle 
+
+Bu blok, röleyi açıp kapatmak için kullanılır.
+
+![röle blok resmi](../../_assets/röle.PNG)
+
+## Blok : __ notasını __ ölçüde çal
+
+Bu blok ile bazırdan istenilen nota ve istenilen ölçü seçilir.
+
+![bazır blok resmi](../../_assets/bazır.PNG)
+
+
+[Belgeler](https://github.com/Robotistan-Workspace/tinylab-mblock-extension-documentation/tree/main/doc)
+
+
+
