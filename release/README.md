@@ -45,7 +45,7 @@ Then, you can use the TinyLab extension.
 [For More Information](https://github.com/Robotistan-Workspace/tinylab-mblock-extension-documentation/tree/main/doc)
 
 
-**___________________________________________________________________________________________________________**
+**__________________________________________________________________________________________________________________________________________________**
 
 
 # Uzantı nasıl indirilir
@@ -87,4 +87,5 @@ Artık TinyLab uzantısını kullanabilirsiniz.
   ![TinyLab ekleme](../_assets/ekleme.PNG)
 
 [Daha Fazla Bilgi İçin](https://github.com/Robotistan-Workspace/tinylab-mblock-extension-documentation/tree/main/doc)
+
 
