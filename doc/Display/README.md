@@ -106,7 +106,7 @@ NOT: Bu bloktan önce "LCD'yi Başlat" bloğunu kullanmayı unutmayın.
 
 ## 7-Segment
 
-### Blok : 7-Segment Başlat
+### Blok : 7-Segment'i Başlat
 
 Bu blok 7-Segment'i başlatmak için kullanılır.
 
@@ -115,3 +115,21 @@ Not: 7-Segment'i başlatmak için bu bloğu kullanmalısınız.Bu blok, "TinyLab
 ![7-Segment başlatma](../../_assets/7-segment_başlat.PNG)
 ![7-Segment başlatma](../../_assets/7segment.PNG)
 ![7-Segment başlatma](../../_assets/tiny_7_segment.PNG)
+
+### Blok : 7-Segment'e __ yaz
+
+Bu blok, 7-Segment'e yazı yazmak için kullanılır.
+
+NOT: Bu bloktan önce "7-Segment'i Başlat" bloğunu kullanmayı unutmayın.
+
+![7-Segmente yaz](../../_assets/7segment_yaz.PNG)
+
+### Blok : 7-Segmenti Temizle
+
+Bu blok ile 7-Segment ekranı temizlenir.
+
+NOT: Bu bloktan önce "7-Segment'i Başlat" bloğunu kullanmayı unutmayın.
+
+![7-Segmenti temizle](../../_assets/7segment_temizle.PNG)
+
+[Belgeler](https://github.com/Robotistan-Workspace/tinylab-mblock-extension-documentation/tree/main/doc)
