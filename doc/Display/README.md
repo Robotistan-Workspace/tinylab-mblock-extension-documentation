@@ -7,10 +7,11 @@
 
 This block used for initialize LCD.
 
-Note: You must use this block to start LCD.This block use with  "when TinyLab started" or "when clicked __ button" blocks.
+Note: You must use this block to start LCD.This block use with  "when TinyLab started" , "when clicked __ button" or "TinyLab Loop" blocks.
 
 ![setup lcd blocks image](../../_assets/setup_lcd.PNG)
 ![setup lcd button  blocks image](../../_assets/setup_lcd_button.PNG)
+![setup lcd blocks image](../../_assets/loop_lcd.PNG)
 
 ### Block : move the LCD cursor;line __, column__
 
@@ -40,10 +41,11 @@ This block used for cleaning LCD screen.
 
 This block used for initialize 7-Segment.
 
-Note:  You must use this block to start 7-Segment.This block use with  "when TinyLab started" or "when clicked __ button" blocks.
+Note:  You must use this block to start 7-Segment.This block use with  "when TinyLab started" ,"when clicked __ button" or "TinyLab Loop" blocks.
 
 ![setup 7-segment button blocks image](../../_assets/setup_7_button.PNG) 
 ![setup7-segment  blocks image](../../_assets/setup_7_segment.PNG)
+![setup7-segment  blocks image](../../_assets/loop_7_segment.PNG)
 
 ### Block : write __ to 7-Segment
 

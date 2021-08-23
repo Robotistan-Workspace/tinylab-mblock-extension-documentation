@@ -23,7 +23,7 @@ Reads the value from a specified digital pin.
 
 ## Block : write __ to digital pin __
 
-Reads the value from a specified digital pin, you can select either "HIGH" or "LOW".
+You can write  "HIGH" or "LOW" to  the digital pin which you select.
 
 ![write to digital pin blocks image](../../_assets/write_to_digital.PNG)
 
@@ -41,7 +41,7 @@ This block used for initialize external EEPROM.
 
 ##  Block : write __ to external EEPROM, start index from __ to __ byte lenght 
 
-This block used for write to external EEPROM .Due to this block  you can start which index you want  and you can select  byte lengt.
+This block is used to write to the external EEPROM. Write to the directory of your choice with this block
 
 ![write to external eeprom blocks image](../../_assets/write_to_external.PNG)
 
@@ -52,3 +52,61 @@ This block used for read the external EEPROM and you can start to write to which
 ![read to external eeprom blocks image](../../_assets/read_the_external_eeprom.PNG)
 
 [For Documentation](https://github.com/Robotistan-Workspace/tinylab-mblock-extension-documentation/tree/main/doc)
+
+
+
+**_________________________________________________________________________________________________________________________________________________**
+
+# Araçlar
+
+![araçlar blok resmi](../../_assets/araçlar.PNG)
+
+## Blok : __ analog pin değerini oku
+
+Bu blok seçilen analog pinden değeri okur. Analog pinlerden istediğinizi seçebilirsiniz.
+
+![analog pin değerini oku blok resmi](../../_assets/analog_pin.PNG)
+
+## Blok : __ analog pinine __ değerini yaz
+
+Bu blok, kullanmak istediğiniz analog pine 0 ile 255 arası bir değer yazar.
+
+![analog pine değer yazma blok resmi](../../_assets/analog_pin_yazma.PNG)
+
+## Blok : __ digital pinini oku
+
+Bu blok seçilen digital pinden değeri okur. Digital pinlerden istediğinizi seçebilirsiniz.
+
+![digital pin değerini oku blok resmi](../../_assets/digital_pin.PNG)
+
+## Blok : __ değerini __ digital pinine yaz
+
+Seçilen digital pine "Yüksek" veya "Düşük" değerini yazar.
+
+![digital pin değeri yazma blok resmi](../../_assets/digital_pin_yazma.PNG)
+
+## Blok : seri porta __ değerini yaz
+
+Bir hata ayıklama aracı olarak, kavramları test etmek veya doğrudan Arduino kartıyla iletişim kurmak için kullanılabilir. Seri porta istenlen ifadeyi yazar.
+
+![seri porta  yazma blok resmi](../../_assets/seri_port.PNG)
+
+## Blok : harici EEPROM'u başlat
+
+Bu blok harici EEPROM'u başlatır.
+
+![harici EEPROM başlat blok resmi](../../_assets/harici_eeprom.PNG)
+
+## Blok : __ ifadesini __ indisinden başlayarak __ bayt uzunluğunda harici EEPROM'a yaz
+
+Bu blok ile istenilen ifade seçilen indisten başlayarak belirlenen bayt uzunluğunda harici EEPROM'a yazılır.
+
+![harici EEPROM yazma blok resmi](../../_assets/eeprom_yazma.PNG)
+
+## Blok : harici EEPROM'dan __ indisinden başlayarak __ bayt uzunluğunda ifadeyi oku
+
+Bu blok harici EEPROM'dan istenilen indisten başlayarak seçilen bayt uznluğunda okuma yapar.
+
+![harici EEPROM okuma blok resmi](../../_assets/eeprom_okuma.PNG)
+
+[Belgeler İçin](https://github.com/Robotistan-Workspace/tinylab-mblock-extension-documentation/tree/main/doc)

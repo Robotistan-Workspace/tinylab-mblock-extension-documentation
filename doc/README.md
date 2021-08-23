@@ -1,4 +1,4 @@
-# Tinylab Extension Documentaion 
+# Tinylab Extension Documentation 
 
 In this section, there are 5 categories related to the Tinylab extension. These are actuators, sensors, display, events, tools. You can easily find the block information.
 
@@ -28,6 +28,43 @@ In this category, there are 4 blocks. These are related to temperature sensor,po
 
 ## Utils
 
-In this category, there are 8 blocks. These are related to analog pin, digital pin and EEPROM.
+In this category, there are 8 blocks. These are related to analog pin, digital pin and external EEPROM.
 
 [GO TO UTILS](https://github.com/Robotistan-Workspace/tinylab-mblock-extension-documentation/tree/main/doc/Utils)
+
+**_________________________________________________________________________________________________________________________________________________**
+
+# TinyLab Uzantı Belgeleri
+
+Bu başlık TinyLab'te bulunan 5 kategori ile ilgilidir.Kategoride sensörler,tetikleyiciler,görünüm,olaylar ve araçlar başlıkları bulunur.
+
+## Tetikleyiciler
+
+Bu kategoride 4 blok bulunmaktadır. Bunlar led, röle ve buzzer ile ilgilidir.
+
+[TETİKLEYİCİLER](https://github.com/Robotistan-Workspace/tinylab-mblock-extension-documentation/tree/main/doc/Actuators)
+
+# Görünüm
+
+Bu kategoride 7 blok bulunmaktadır. Bunlar 7-Segment ve LCD ile ilgilidir.
+
+[GÖRÜNÜM](https://github.com/Robotistan-Workspace/tinylab-mblock-extension-documentation/tree/main/doc/Display)
+
+# Olaylar
+
+Bu kategoride 3 başlık vardır.
+
+[OLAYLAR](https://github.com/Robotistan-Workspace/tinylab-mblock-extension-documentation/tree/main/doc/events)
+
+# Sensörler
+
+Bu kategoride 4 blok bulunmaktadır. Bunlar sıcaklık sensörü, potansiyometre, kodlayıcı ve ışık sensörü ile ilgilidir.
+
+[SENSÖRLER](https://github.com/Robotistan-Workspace/tinylab-mblock-extension-documentation/tree/main/doc/Sensors)
+
+# Araçlar
+
+
+Bu kategoride 8 blok bulunmaktadır. Bunlar analog pin, dijital pin ve harici EEPROM ile ilgilidir.
+
+[ARAÇLAR](https://github.com/Robotistan-Workspace/tinylab-mblock-extension-documentation/tree/main/doc/Utils)
