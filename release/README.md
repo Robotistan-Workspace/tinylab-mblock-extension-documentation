@@ -45,7 +45,7 @@ Then, you can use the TinyLab extension.
 [For More Information](https://github.com/Robotistan-Workspace/tinylab-mblock-extension-documentation/tree/main/doc)
 
 
-**_______________________________________________________________________________**
+**___________________________________________________________________________________________________________**
 
 
 # Uzantı nasıl indirilir
@@ -62,7 +62,7 @@ Aşağıda verilen  linkten uzantıyı indirebilirsiniz.
 
 Sonrasında, "klasörde göster"i seçin.
 
-![indirilenler resim](../_assets/indirilenler_klasör.PNG)
+![indirilenler resim](../_assets/indirilenler_klasör.png)
 
 Klasörü sürükleyip ekrana bırakın.
 
