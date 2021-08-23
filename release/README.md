@@ -6,7 +6,7 @@ You can download the extension from attached link:
 
 [Download  link](./Tinylab_Mblock_Extension.mext)
 
-[Download  link](https://github.com/Robotistan-Workspace/tinylab-mblock-extension-documentation/raw/main/release/README.md)
+[Download  link](https://github.com/Robotistan-Workspace/tinylab-mblock-extension-documentation/raw/main/release/Tinylab_Mblock_Extension.mext)
 
 After that, you must go to downloads.
 
